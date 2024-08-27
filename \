@@ -1,0 +1,21 @@
+// javascript
+
+
+let esami [
+    {
+        materia: "Matematica",
+        data: "27/08/2024",
+        voto: 15,
+    },
+    {
+        materia: "Scienze",
+        data: "27/08/2024",
+        voto: 26
+    },
+];
+
+
+
+
+
+
